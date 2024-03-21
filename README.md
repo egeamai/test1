@@ -18,7 +18,7 @@ To run this code on your localhost:
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/egeamai/test.git
+  git clone https://github.com/egeamai/test1.git
 ```
 
 Gerekli paketleri yükleyin
