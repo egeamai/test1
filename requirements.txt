@@ -1,0 +1,10 @@
+langchain
+langchain_community
+streamlit
+pandas
+numpy
+matplotlib
+chromadb
+os
+sys
+openai
